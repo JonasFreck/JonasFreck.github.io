@@ -17,3 +17,13 @@ deeper-reflection
 shadowing-the-arborist
 day-of-the-shadowing
 combatting-to-greenwashing
+interviews
+student-interviews
+industry-interviews
+meta-analysis
+results
+bibliography
+outdoor-builds-pt.-2
+revised-plan
+progress
+next-steps
